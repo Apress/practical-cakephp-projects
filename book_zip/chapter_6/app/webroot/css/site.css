@@ -1,0 +1,24 @@
+.lang_change_form {
+    display: inline;
+}
+
+.nav_links {
+    display: inline;
+    float: left;
+}
+
+.lang_change_wrapper {
+    display: inline;
+    float: right;
+}
+
+.profile_img {
+    border: 0px solid #ffee00;
+    margin: 5px;
+}
+
+.status_rec {
+    margin: 5px;
+    float: left;
+    width: 100%;
+}

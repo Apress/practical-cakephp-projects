@@ -1,0 +1,173 @@
+#minicart {
+    width: 100%;
+    padding: 3px;
+}
+
+#minicart td {
+    padding: 5px;
+    border: 1px solid #999999;
+}
+
+#main_body_container {
+    width: 390px;
+    display: inline;
+    float: left;
+    margin-left: 20px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+
+#main_cart_container {
+    width: 550px;
+    display: inline;
+    float: left;
+    margin-left: 5px;
+    margin-right: 0px;
+    padding: 5px;
+}
+
+
+#right_nav_container {
+    width: 150px;
+    display: inline;
+    float: left;
+    padding: 5px;
+}
+
+div.disabled {
+    display: inline;
+    float: none;
+    clear: none;
+    color: #C0C0C0;
+} 
+
+.product_container {
+    width: 160px;
+    display: inline;
+    float: left;
+    margin: 5px;
+}
+
+/* Left Nav */
+#leftnav {
+	width: 150px;
+	font-size: 12px;
+	vertical-align: top;
+	font-size: 85%;
+	display: inline;
+	float: left;
+}
+
+ul, ol {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#leftnav a {
+	padding: 3px; 
+	display: block;
+	border: 1px dotted #CCC;
+	text-decoration: none;
+	line-height: 1em;
+	width: 150px;
+}
+
+#leftnav a:link, #leftnav a:visited {
+	color: #666;
+}
+
+#leftnav a:hover, #leftnav a:active {
+	color: #FFFFFF;
+	background-color: #6699CC;
+	border: 1px solid #000;
+}
+
+#leftnav ul {
+	padding: 0em;
+	margin-left: 0em;
+	margin-right: 0em;
+	list-style-type: none;
+}
+
+#leftnav li {
+	margin: 0px 0px 6px 0px;	
+}
+
+#current a {
+	color: #CCCCCC !important;
+	background-color: #999999 !important;
+	border: 2px dotted #999 !important;
+}
+
+/*  Shop CSS */
+.entryTable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #DDDDDD;
+}
+
+.entryTableHeader {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #7F92A4;
+	font-weight: bold;
+	background-position: center;
+}
+
+.entryTable .label {
+	background-color: #EFEFEF;
+}
+
+.entryTable .content {
+	background-color: #FFFFFF;
+}
+
+
+.infoTable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #DDDDDD;
+}
+
+.infoTableHeader {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #7F92A4;
+	font-weight: bold;
+	background-position: center;
+}
+
+.infoTable .label {
+	background-color: #EFEFEF;
+}
+
+.infoTable .content {
+	background-color: #FFFFFF;
+}
+
+.box {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #336699;
+}
+
+.notice {
+	color: #996600;
+	font-weight: bold;
+}
+
+.addToCartButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#333333;
+	font-weight:bold;
+	border: 1px solid #336699;
+	background-color:#FFCC00;
+}
+
+#errorMessage {
+	color: #990000;
+	font-weight: bold;
+}

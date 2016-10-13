@@ -1,0 +1,4 @@
+msgid  "app_tag_line" 
+msgstr "混乱! 翻訳! 笑い!"
+
+

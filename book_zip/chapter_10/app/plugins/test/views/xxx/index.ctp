@@ -1,0 +1,5 @@
+asdfsdfasdfsa
+
+<?php
+echo $what;
+?>

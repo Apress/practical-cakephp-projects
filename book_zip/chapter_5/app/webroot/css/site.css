@@ -1,0 +1,94 @@
+/* we enforce explicit styling */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* some basic styling for the body */
+body { 
+	font-family: 'trebuchet ms', Arial, sans-serif;
+    font-size: 1.0em;
+}
+
+/* header */
+.header_wrapper {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+/* main top navigation panel */
+.nav_1 {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    background-color: #eeeeee;
+    margin-bottom: 10px;   
+    font-size: 0.8em;       
+}
+
+/* centre main content */
+#center_content {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* wrapper div for the function buttons */
+#map_functions_wrapper {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    background-color: #eeeeee;
+}
+
+/* function forms */
+.function_form {
+    display: inline;
+}
+
+/* journey helper message */
+#journey_helper_message {
+    padding: 10px;
+    background-color: #FFFAAE;
+    border: 1px solid #cccccc;
+}
+
+/* the map canvas */
+#map_canvas {
+    width: 750px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+/* retrieve container */
+#retrieve_wrapper {
+    margin-top: 5px;
+    border: 1px solid #cccccc;
+    background-color: #eeeeee;
+    padding: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 4px;
+}
+
+.error-message {
+    background-color: #FFFAAE;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.form_fields {
+    margin: 5px;
+}
+
+.display_journey_container {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #cccccc;
+    background-color: #FFFFCC;
+}

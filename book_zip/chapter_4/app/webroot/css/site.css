@@ -1,0 +1,86 @@
+.yl {
+    color: #ff0000;
+    font-style: bold;
+}
+
+div.disabled {
+    display: inline;
+    float: none;
+    clear: none;
+    color: #C0C0C0;
+} 
+
+.message_header {
+    background-color: #eeeeee;
+    border-bottom: 2px solid #999999;
+}
+
+.message_header h3,h6 {
+    display: inline;
+}
+
+.thread_message {
+    overflow: hidden;
+    border: 0px solid #00ff00;
+    margin-top: 5px;
+    margin-bottom: 14px;
+}
+
+.thread_header {
+    background-color: #eeeeee;
+    border-bottom: 2px solid #999999;
+}
+
+.thread_header h3,h6 {
+    display: inline;
+}
+
+.thread_post {
+    overflow: hidden;
+    border: 0px solid #00ff00;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.paginator_line {
+    margin-top: 20px;
+    width: 100%;
+}
+
+/* for post form */
+#message_form fieldset {
+  padding: 1em;
+}
+
+#message_form legend {
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+#message_form label {
+  float:left;
+  width: 6em;
+  margin-right:0.5em;
+  padding-top:0.2em;
+  text-left:right;
+  font-weight:bold;
+}
+
+#message_form .submit {
+    padding: 0.5em;
+    padding-left: 7.8em;
+}
+
+#message_form .submit input {
+    
+}
+
+#message_form .input {
+    padding: 0.3em;
+}
+
+.highlight_search {
+    font-style: bold;
+    color: #ff0000;
+}

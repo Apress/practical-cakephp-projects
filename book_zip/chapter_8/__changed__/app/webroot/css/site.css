@@ -1,0 +1,33 @@
+fieldset {
+  padding: 1em;
+}
+
+legend {
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+label {
+  margin-right:0.5em;
+  padding-top:0.2em;
+  text-left:right;
+  font-weight:bold;
+}
+
+.select {
+    margin: 15px;
+}
+
+.input {
+    margin: 15px;
+}
+
+.form_field {
+    margin: 15px;
+}
+
+table * {
+    margin: 3px;
+    padding: 3px;
+}

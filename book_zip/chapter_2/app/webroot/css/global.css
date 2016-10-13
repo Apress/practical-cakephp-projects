@@ -1,0 +1,72 @@
+/* we enforce explicit styling */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+/* some basic styling for the body */
+body { 
+	font-family: 'trebuchet ms', Arial, sans-serif;
+    font-size: 1.0em;
+}
+
+/* header */
+.header_wrapper {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+/* main top navigation panel */
+.nav_1 {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    background-color: #eeeeee;
+    margin-bottom: 10px;   
+    font-size: 0.8em;
+}
+
+/* centre main content */
+#center_content {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main_content_container { 
+    width: 100%;
+}
+
+/* hilight box */
+.hilight { 
+	clear: both; 
+	border-top: 1px dotted #888;	
+	border-bottom: 1px dotted #888;
+	background: #ffffcc;
+	color: #808080;
+	padding: 0.7em;
+	margin: 15px 0px 10px 0px;
+	font-size: 1.2em
+}
+
+/* cake error messages */
+.error-message {
+    background-color: #FFFAAE;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* tag elements */
+p {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 4px;
+}

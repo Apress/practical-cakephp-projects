@@ -1,0 +1,417 @@
+2008-08-24 14:53:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `ControlPanel`   WHERE 1 = 1' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 14:53:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM  AS `ControlPanel`   WHERE 1 = 1    LIMIT 20' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 15:00:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `ControlPanel`   WHERE 1 = 1' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 15:00:45 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM  AS `ControlPanel`   WHERE 1 = 1    LIMIT 20' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 15:01:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `ControlPanel`   WHERE 1 = 1' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 15:01:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM  AS `ControlPanel`   WHERE 1 = 1    LIMIT 20' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-24 16:27:33 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 12:16:56 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-25 12:20:40 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-25 12:21:32 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-25 12:28:57 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-25 12:30:29 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-25 13:42:11 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers\users_controller.php:10) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 13:42:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers\users_controller.php:10) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 14:56:56 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::1
+Aco: User/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 14:57:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::1
+Aco: User/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:00:01 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::1
+Aco: User/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:00:02 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::1
+Aco: User/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:12:44 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 196]
+2008-08-25 15:12:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+        )
+
+)
+
+Aco: Users/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:12:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:13:21 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 196]
+2008-08-25 15:13:22 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+        )
+
+)
+
+Aco: Users/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:13:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:14:06 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 196]
+2008-08-25 15:14:06 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+        )
+
+)
+
+Aco: Users/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:14:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:14:45 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 196]
+2008-08-25 15:14:45 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+        )
+
+)
+
+Aco: Users/onlyAdmin in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:14:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:23:26 Warning: Warning (2): Missing argument 1 for AppController::isAuthorized(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\controller\components\auth.php on line 433 and defined in [APP\app_controller.php, line 50]
+2008-08-25 15:23:26 Warning: Warning (2): Missing argument 2 for AppController::isAuthorized(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\controller\components\auth.php on line 433 and defined in [APP\app_controller.php, line 50]
+2008-08-25 15:23:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:24:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:24:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:25:07 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:44:38 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:45:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\controller\components\auth.php:443) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:48:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::
+Aco: User::5 in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:48:35 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: User::
+Aco: User::5 in [CORE\cake\libs\controller\components\acl.php, line 282]
+2008-08-25 15:51:20 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 15:52:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-25 17:15:20 Warning: Warning (512): Could not find AclComponent. Please include Acl in Controller::$components. in [CORE\cake\libs\controller\components\auth.php, line 348]
+2008-08-26 12:27:52 Warning: Warning (2): Missing argument 1 for Shell::__construct(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers\users_controller.php on line 151 and defined in [CORE\cake\console\libs\shell.php, line 125]
+2008-08-26 12:27:53 Warning: Warning (2): Missing argument 1 for Shell::__construct(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers\users_controller.php on line 151 and defined in [CORE\cake\console\libs\shell.php, line 125]
+2008-08-26 12:41:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'User' in 'where clause'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 12:41:43 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE\cake\libs\model\behaviors\tree.php, line 331]
+2008-08-26 12:42:32 Warning: Warning (2): preg_match() expects parameter 2 to be string, object given in [CORE\cake\libs\model\datasources\dbo_source.php, line 1724]
+2008-08-26 12:42:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id #35   ORDER BY `Aco`.`lft` asc' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 12:42:32 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE\cake\libs\model\behaviors\tree.php, line 331]
+2008-08-26 12:45:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Users' in 'where clause'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 12:45:36 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE\cake\libs\model\behaviors\tree.php, line 331]
+2008-08-26 12:45:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column '1sdf' in 'where clause'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 12:45:53 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE\cake\libs\model\behaviors\tree.php, line 331]
+2008-08-26 18:11:33 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'kaiwashere' in 'field list'</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:33:38 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:34:02 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:39:36 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:40:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:40:26 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:41:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'children' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-26 18:47:12 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-26 18:47:12 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 276]
+2008-08-26 18:47:13 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-26 18:47:13 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 276]
+2008-08-26 18:47:34 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-26 18:47:34 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 276]
+2008-08-26 19:24:09 Error: Fatal Error (256): (TreeBehavior::setParent) Deprecated - save the record with a parent ID instead in [CORE\cake\libs\model\behaviors\tree.php, line 718]
+2008-08-26 19:26:10 Error: Fatal Error (256): (TreeBehavior::setParent) Deprecated - save the record with a parent ID instead in [CORE\cake\libs\model\behaviors\tree.php, line 718]
+2008-08-27 00:36:26 Warning: Warning (2): unlink(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\tmp\cache\persistent\cake_core_object_map) [<a href='http://php.net/function.unlink'>function.unlink</a>]: No such file or directory in [CORE\cake\libs\file.php, line 278]
+2008-08-27 00:36:31 Warning: Warning (2): fopen(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\tmp\cache\models\cake_model_default_chapter_8_list) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE\cake\libs\file.php, line 146]
+2008-08-27 00:36:34 Warning: Warning (2): touch() [<a href='http://php.net/function.touch'>function.touch</a>]: Utime failed: Permission denied in [CORE\cake\libs\file.php, line 122]
+2008-08-27 00:36:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-27 00:36:37 Warning: Warning (2): unlink(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\tmp\cache\persistent\cake_core_default_en_gb) [<a href='http://php.net/function.unlink'>function.unlink</a>]: Permission denied in [CORE\cake\libs\file.php, line 278]
+2008-08-27 00:36:37 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-27 00:51:52 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 171]
+2008-08-27 00:52:43 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 171]
+2008-08-27 00:54:29 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 171]
+2008-08-27 00:59:17 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 171]
+2008-08-27 01:00:46 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 171]
+2008-08-27 13:41:28 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-27 13:55:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-27 18:58:46 Warning: Warning (512): Method FormHelper::data does not exist in [CORE\cake\libs\view\helper.php, line 148]
+2008-08-27 18:59:25 Warning: Warning (2): Missing argument 1 for GroupsController::security(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\object.php on line 114 and defined in [APP\controllers\groups_controller.php, line 48]
+2008-08-27 23:47:57 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:47:58 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:49:27 Warning: Warning (512): Callback parentNode() not defined in User in [CORE\cake\libs\model\behaviors\acl.php, line 62]
+2008-08-27 23:49:27 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:51:31 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:52:26 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:53:29 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:55:19 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-27 23:59:13 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:01:30 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:02:49 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:31:32 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:34:49 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:36:05 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:36:15 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 00:41:49 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:16:06 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:18:31 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:18:32 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:18:51 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:19:06 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:28:28 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 10:48:08 Warning: Warning (2): Missing argument 1 for GroupsController::security(), called in C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\object.php on line 114 and defined in [APP\controllers\groups_controller.php, line 48]
+2008-08-28 10:48:08 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-28 11:01:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-28 11:01:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-28 11:02:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-28 11:05:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-28 14:18:16 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\users_controller.php, line 149]
+2008-08-28 14:44:27 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `Action`   WHERE 1 = 1' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-28 14:44:27 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM  AS `Action`   WHERE 1 = 1    LIMIT 20' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-28 16:31:14 Warning: Warning (2): opendir(/path/to/files) [<a href='http://php.net/function.opendir'>function.opendir</a>]: failed to open dir: Invalid argument in [APP\controllers\actions_controller.php, line 18]
+2008-08-28 16:32:20 Warning: Warning (2): opendir(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\/contollers) [<a href='http://php.net/function.opendir'>function.opendir</a>]: failed to open dir: Invalid argument in [APP\controllers\actions_controller.php, line 16]
+2008-08-28 16:32:30 Warning: Warning (2): opendir(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\contollers) [<a href='http://php.net/function.opendir'>function.opendir</a>]: failed to open dir: Invalid argument in [APP\controllers\actions_controller.php, line 16]
+2008-08-28 16:45:29 Warning: Warning (2): file_get_contents(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers/components) [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Permission denied in [APP\controllers\actions_controller.php, line 26]
+2008-08-28 16:48:13 Warning: Warning (2): file_get_contents(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers/components) [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Permission denied in [APP\controllers\actions_controller.php, line 22]
+2008-08-28 16:48:53 Warning: Warning (2): file_get_contents(C:\kai_stuff\working_files\websites\cake\__chapters__\auth\app\controllers/components) [<a href='http://php.net/function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Permission denied in [APP\controllers\actions_controller.php, line 24]
+2008-08-28 16:52:42 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Compilation failed: missing ) at offset 23 in [APP\controllers\actions_controller.php, line 32]
+2008-08-29 01:35:31 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:35:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:36:08 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:36:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:36:35 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:36:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:43:23 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:43:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:47:02 Warning: Warning (512): Callback parentNode() not defined in Action in [CORE\cake\libs\model\behaviors\acl.php, line 62]
+2008-08-29 01:47:02 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 01:48:07 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:48:07 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:48:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:49:47 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:49:47 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:49:47 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:50:06 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:50:06 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:50:06 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:50:57 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:50:57 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:50:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:51:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 01:52:59 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:52:59 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:52:59 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:56:01 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:56:01 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 658]
+2008-08-29 01:56:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:58:01 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:58:01 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 660]
+2008-08-29 01:58:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:58:35 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:58:35 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 660]
+2008-08-29 01:58:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 01:58:59 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 01:59:00 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 660]
+2008-08-29 01:59:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 02:00:37 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 02:00:37 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 660]
+2008-08-29 02:00:37 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 02:01:28 Warning: Warning (2): mysql_real_escape_string() expects parameter 1 to be string, object given in [CORE\cake\libs\model\datasources\dbo\dbo_mysql.php, line 247]
+2008-08-29 02:01:28 Warning: Warning (2): array_values() [<a href='http://php.net/function.array-values'>function.array-values</a>]: The argument should be an array in [CORE\cake\libs\model\behaviors\tree.php, line 660]
+2008-08-29 02:01:29 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1</span> in [CORE\cake\libs\model\datasources\dbo_source.php, line 512]
+2008-08-29 10:53:31 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 10:55:43 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 10:56:03 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 11:03:55 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 11:04:31 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 11:04:54 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 11:05:12 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 367]
+2008-08-29 11:29:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\libs\controller\components\acl.php:50) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 11:44:58 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 197]
+2008-08-29 11:44:58 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [group_id] => 1
+        )
+
+)
+
+Aco: Widgets/someAction in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 11:44:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 11:47:30 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 11:47:30 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [group_id] => 1
+        )
+
+)
+
+Aco: Widgets/someAction in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 11:47:30 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 11:48:03 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 11:48:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [group_id] => 1
+        )
+
+)
+
+Aco: Users/logout in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 11:48:04 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 11:48:17 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 11:48:17 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [group_id] => 1
+        )
+
+)
+
+Aco: Users/logout in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 11:48:17 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 11:48:39 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 1
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 11:48:39 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [group_id] => 1
+        )
+
+)
+
+Aco: Users/logout in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 11:48:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 12:22:44 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 368]
+2008-08-29 12:25:09 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 368]
+2008-08-29 12:27:15 Warning: Warning (512): DbAcl::allow() - Invalid node in [CORE\cake\libs\controller\components\acl.php, line 368]
+2008-08-29 12:32:13 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 21:59:54 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 82
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 21:59:54 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 82
+            [username] => temp
+            [group_id] => 0
+        )
+
+)
+
+Aco: Widgets/someAction in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 21:59:54 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 22:00:00 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 82
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 22:00:00 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 82
+            [username] => temp
+            [group_id] => 0
+        )
+
+)
+
+Aco: Actions/index in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 22:00:01 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 22:00:23 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 82
+)
+" in [CORE\cake\libs\model\db_acl.php, line 198]
+2008-08-29 22:00:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 82
+            [username] => temp
+            [group_id] => 0
+        )
+
+)
+
+Aco: Actions/index in [CORE\cake\libs\controller\components\acl.php, line 283]
+2008-08-29 22:00:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:111) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-08-29 23:35:11 Warning: Warning (2): Invalid argument supplied for foreach() in [APP\controllers\actions_controller.php, line 31]
+2008-09-01 15:42:10 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]
+2008-09-02 18:23:55 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at C:\kai_stuff\working_files\websites\cake\__chapters__\auth\cake\basics.php:303) in [CORE\cake\libs\controller\controller.php, line 577]

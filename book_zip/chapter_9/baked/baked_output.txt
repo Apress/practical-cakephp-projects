@@ -1,0 +1,172 @@
+C:\kai_stuff\working_files\websites\cake\__chapters__\mini_projects\i18n\app>C:\kai_stuff\working_files\websites\cake\ca
+ke_tests\cake\console\cake bake
+
+
+Welcome to CakePHP v1.2.0.7296 RC2 Console
+---------------------------------------------------------------
+App : app
+Path: C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n/app
+---------------------------------------------------------------
+Interactive Bake Shell
+---------------------------------------------------------------
+[D]atabase Configuration
+[M]odel
+[V]iew
+[C]ontroller
+[P]roject
+[Q]uit
+What would you like to Bake? (D/M/V/C/P/Q)
+> M
+---------------------------------------------------------------
+Bake Model
+Path: C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\models\
+---------------------------------------------------------------
+Possible Models based on your current database:
+1. I18n
+2. Story
+Enter a number from the list above, type in the name of another model, or 'q' to exit
+[q] > 2
+Would you like to supply validation criteria for the fields in your model? (y/n)
+[y] > n
+Would you like to define model associations (hasMany, hasOne, belongsTo, etc.)? (y/n)
+[y] > n
+
+---------------------------------------------------------------
+The following Model will be created:
+---------------------------------------------------------------
+Name:       Story
+Associations:
+---------------------------------------------------------------
+Look okay? (y/n)
+[y] > y
+
+Baking model class for Story...
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\models\story.php
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\models\story.php
+Cake test suite not installed.  Do you want to bake unit test files anyway? (y/n)
+[y] > n
+---------------------------------------------------------------
+Interactive Bake Shell
+---------------------------------------------------------------
+[D]atabase Configuration
+[M]odel
+[V]iew
+[C]ontroller
+[P]roject
+[Q]uit
+What would you like to Bake? (D/M/V/C/P/Q)
+> C
+---------------------------------------------------------------
+Bake Controller
+Path: C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\controllers\
+---------------------------------------------------------------
+Possible Controllers based on your current database:
+1. I18ns
+2. Stories
+Enter a number from the list above, type in the name of another controller, or 'q' to exit
+[q] > 2
+---------------------------------------------------------------
+Baking StoriesController
+---------------------------------------------------------------
+Would you like to build your controller interactively? (y/n)
+[y] > y
+Would you like to use scaffolding? (y/n)
+[n] > n
+Would you like to include some basic class methods (index(), add(), view(), edit())? (y/n)
+[n] > y
+Would you like to create the methods for admin routing? (y/n)
+[n] > n
+Would you like this controller to use other helpers besides HtmlHelper and FormHelper? (y/n)
+[n] > n
+Would you like this controller to use any components? (y/n)
+[n] > n
+Would you like to use Sessions? (y/n)
+[y] > n
+
+---------------------------------------------------------------
+The following controller will be created:
+---------------------------------------------------------------
+Controller Name:  Stories
+---------------------------------------------------------------
+Look okay? (y/n)
+[y] > y
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\controllers\stories_controlle
+r.php
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\controllers\stories_controller.php
+Cake test suite not installed.  Do you want to bake unit test files anyway? (y/n)
+[y] > n
+---------------------------------------------------------------
+Interactive Bake Shell
+---------------------------------------------------------------
+[D]atabase Configuration
+[M]odel
+[V]iew
+[C]ontroller
+[P]roject
+[Q]uit
+What would you like to Bake? (D/M/V/C/P/Q)
+> V
+---------------------------------------------------------------
+Bake View
+Path: C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\
+---------------------------------------------------------------
+Possible Controllers based on your current database:
+1. I18ns
+2. Stories
+Enter a number from the list above, type in the name of another controller, or 'q' to exit
+[q] > 2
+Would you like to create some scaffolded views (index, add, view, edit) for this controller?
+NOTE: Before doing so, you'll need to create your controller and model classes (including associated models). (y/n)
+[n] > y
+Would you like to create the views for admin routing? (y/n)
+[y] > n
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\index.ctp
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\index.ctp
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\view.ctp
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\view.ctp
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\add.ctp
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\add.ctp
+
+Creating file C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\edit.ctp
+Wrote C:/kai_stuff/working_files/websites/cake/__chapters__/mini_projects/i18n\app\views\stories\edit.ctp
+---------------------------------------------------------------
+
+View Scaffolding Complete.
+
+---------------------------------------------------------------
+Interactive Bake Shell
+---------------------------------------------------------------
+[D]atabase Configuration
+[M]odel
+[V]iew
+[C]ontroller
+[P]roject
+[Q]uit
+What would you like to Bake? (D/M/V/C/P/Q)
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

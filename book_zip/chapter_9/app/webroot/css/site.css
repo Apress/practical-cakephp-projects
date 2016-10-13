@@ -1,0 +1,51 @@
+fieldset {
+  padding: 1em;
+}
+
+legend {
+    font-size: 2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+label {
+  float:left;
+  width: 6em;
+  margin-right:0.5em;
+  padding-top:0.2em;
+  text-left:right;
+  font-weight:bold;
+}
+
+.form input, textarea {
+    margin: 5px;
+}
+
+/* List stories in admin */
+
+.list_stories {
+    width: 100%;
+    border-spacing: 2px;
+}
+
+.list_stories th {
+    background-color: #eeeeee;
+}
+
+.list_stories th,td {
+    border: 1px solid #cccccc;
+    padding: 3px;
+}
+
+.list_stories .actions {
+    width: 30%;
+}
+
+/* paging */
+.paging {
+    width: 100%;
+}
+
+.disabled {
+    display: inline;
+}

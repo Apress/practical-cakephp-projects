@@ -1,0 +1,2 @@
+1307365989
+a:4:{s:2:"id";a:5:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:36;s:3:"key";s:7:"primary";}s:16:"first_message_id";a:4:{s:4:"type";s:6:"string";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:36;}s:17:"last_message_date";a:4:{s:4:"type";s:8:"datetime";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";N;}s:11:"message_num";a:4:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";s:0:"";s:6:"length";i:11;}}
